@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQL, Tableau, Excel, PowerBi**
 
-- 📫 How to reach me **bathulabhuvaneswari@gmail.com**
+- 📫 How to reach me **bhuvaneswari05678@gmail.com**
 
 - ⚡ Fun fact **Loves Photography, Video Editing**
 
