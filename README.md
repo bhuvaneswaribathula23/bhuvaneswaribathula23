@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bathula Bhuvaneswari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqa251ODF4ZW5uZzNwaG5tYW5mbjByZ3d5bmN6OWsxOGUzaHI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/5f/ea/f55feafb705a2ac35e57715ed9381fcd.gif">
 
 
 
